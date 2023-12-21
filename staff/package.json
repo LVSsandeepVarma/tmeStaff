@@ -1,0 +1,75 @@
+{
+  "name": "myapp",
+  "homepage": "https://stage.tradingmaterials.com/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mdi/font": "^7.2.96",
+    "@mui/material": "^5.14.13",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0",
+    "chart.js": "^4.3.0",
+
+    "font-awesome": "^4.7.0",
+    "formik": "^2.4.1",
+    "jspdf": "^2.5.1",
+    "mdb-react-ui-kit": "^6.1.0",
+    "mdbreact": "^5.2.0",
+    "moment": "^2.29.4",
+    "multiselect-react-dropdown": "^2.0.25",
+    "postcss": "8.4.24",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-chartjs-2": "^5.2.0",
+    "react-date-picker": "^10.2.0",
+    "react-date-range": "^1.4.0",
+    "react-datepicker": "^4.13.0",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.6.0",
+    "react-google-charts": "^4.0.0",
+    "react-icons": "^4.9.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-otp-field": "^3.0.1",
+    "react-otp-input": "^3.0.2",
+    "react-redux": "^8.1.0",
+    "react-router-dom": "^6.12.1",
+    "react-scripts": "5.0.1",
+    "react-table": "^7.8.0",
+    "react-text-truncate": "^0.19.0",
+    "recharts": "^2.6.2",
+    "rsuite": "^5.35.1",
+    "serve": "^14.2.0",
+    "tailwindcss": "3.3.2",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
